@@ -6,3 +6,4 @@ master update
 test qiangzhi
 off no
 on off
+dev update
